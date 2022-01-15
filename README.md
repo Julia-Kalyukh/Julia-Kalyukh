@@ -1,9 +1,9 @@
 <h1 align="center">Привет! <img src="https://github.com/Julia-Kalyukh/Julia-Kalyukh/blob/main/hello.gif" width="30px"> я Юля</h1>
 <h3 align="center">Учусь Frontend-разработке</h3>
 
-🌱 Изучаю React в **GeekBrains, Udemy**
+🌱 Изучаю **React** в GeekBrains, Udemy
 
-🔭 Сейчас работаю над [employees_app](https://github.com/Julia-Kalyukh/employees_app)
+🔭 Сейчас работаю над [react_geekbrains](https://github.com/Julia-Kalyukh/react_geekbrains)
 
 ✅ Некоторые проекты: 
 
