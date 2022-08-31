@@ -1,4 +1,4 @@
-<h1 align="center">Привет! <img src="https://github.com/Julia-Kalyukh/Julia-Kalyukh/blob/main/hello.gif" width="30px"> я Юля</h1>
+<h1 align="center">Привет! <img src="https://github.com/Julia-Kalyukh/Julia-Kalyukh/blob/main/hello.gif" width="25px"> я Юля</h1>
 <h3 align="center">Учусь Frontend-разработке</h3>
 
 
@@ -11,7 +11,7 @@
 - [VideoApplication](https://testwb.yuliyakalyukh.ru)
 
 
-<img src="https://img.icons8.com/color/20/000000/telegram-app--v1.png"/> [Telegram](https://t.me/yulia_kalyukh)
+<img src="https://img.icons8.com/color/20/000000/telegram-app--v1.png"/> [Telegram](https://t.me/jkalyukh)
 
 📫 E-mail: **kalyuh.julia@gmail.com**
 
