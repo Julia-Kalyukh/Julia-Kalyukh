@@ -4,6 +4,7 @@
 
 ✅ Некоторые проекты: 
 
+- [template](https://template.yuliyakalyukh.ru)
 - [RunSmart](https://runsmart.yuliyakalyukh.ru)
 - [page_food](https://food.yuliyakalyukh.ru)
 - [Waxom](https://julia-kalyukh.github.io/website3_Waxom)
@@ -27,6 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julia-kalyukh&show_icons=true&locale=en&theme=radical&hide_border=true" alt="julia-kalyukh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julia-kalyukh&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="julia-kalyukh" /></p>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julia-kalyukh&margin-w=15&margin-h=15&theme=radical&hide_border=true&title=Joined2020,Commits,PullRequest, Repositories, Stars, Followers" alt="julia-kalyukh"/></a>
-
