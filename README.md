@@ -1,3 +1,24 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="200"/>
+</div>
+<div align="center">
+  <a href="https://t.me/jkalyukh"> <img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="18"> Telegram </a>
+  <img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="18"> <a href="https://t.me/jkalyukh">Telegram</a>
+  <img src="https://media.giphy.com/media/2iCNjawFAzNwUYLskA/giphy.gif?cid=ecf05e47g9g0uilixzwwrtyw1pe7ri1pcz9zryrcgc0wxxkc&rid=giphy.gif&ct=s" width="20"> <a href="mailto:kalyuh.julia@mail.ru">E-mail</a>
+  <img src="https://media.giphy.com/media/LlKjxZEL47UWRWuy0u/giphy.gif?cid=ecf05e47kvhvq6rp54c82etja6ukqsl73s71cehfrk9piet0&rid=giphy.gif&ct=s" width="12"> <a href="tel:+74951234567">+7 (495) 123-45-67</a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Julia-Kalyukh&style=flat-square&color=lightgrey"/>
+</div>
+<hr>
+
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/WoXpsZ8tqOiRmzDqKe/giphy.gif?cid=ecf05e47c19e3e6bb0cddc7b2ad4b3f7904220edf9621556&rid=giphy.gif&ct=s" width="200"/>
+</div> -->
+
+<!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"> -->
+
+
 <h1 align="center">Привет! <img src="https://github.com/Julia-Kalyukh/Julia-Kalyukh/blob/main/hello.gif" width="25px"> я Юля</h1>
 <h3 align="center">Учусь Frontend-разработке</h3>
 
@@ -12,7 +33,7 @@
 - [VideoApplication](https://testwb.yuliyakalyukh.ru)
 
 
-<img src="https://img.icons8.com/color/20/000000/telegram-app--v1.png"/> [Telegram](https://t.me/jkalyukh)
+<img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="20"/> [<img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="20"/> Telegram](https://t.me/jkalyukh)
 
 📫 E-mail: **kalyuh.julia@gmail.com**
 
