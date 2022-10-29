@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/0DbpeTlVnwIkfGbV8o/giphy.gif" width="18" /> <a href="https://career.habr.com/julia-kalyukh">Resume</a>
   <span>    </span>
   <img src="https://media.giphy.com/media/2iCNjawFAzNwUYLskA/giphy.gif?cid=ecf05e47g9g0uilixzwwrtyw1pe7ri1pcz9zryrcgc0wxxkc&rid=giphy.gif&ct=s" width="20" /> <a href="mailto:kalyuh.julia@mail.ru">E-mail</a>
-  <span>    </span>
+  <span>     </span>
   <img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="18"/> <a href="https://t.me/jkalyukh">Telegram</a>
 </div>
 <br>
@@ -24,16 +24,17 @@
 
 <!-- ### :hammer_and_wrench: Languages and Tools : -->
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Kalyukh&count_private=true&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Kalyukh&count_private=true&line_height=24&show_icons=true&card_width=450&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Kalyukh&count_private=true&line_height=24&show_icons=true&card_width=450&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Kalyukh&count_private=true&line_height=24&show_icons=true&card_width=450&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<span>    </span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Kalyukh&langs_count=8&layout=compact&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Kalyukh&langs_count=8&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julia-Kalyukh&theme=neon-dark&border_radius=2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+
+<span>                                      </span>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julia-Kalyukh&theme=neon-dark&border_radius=2&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julia-Kalyukh&theme=vue&border=F2F0F0&date_format=j%20M%5B%20Y%5D#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 
 
