@@ -91,12 +91,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Kalyukh&langs_count=8&layout=compact&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Kalyukh&langs_count=8&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<span>                                                     </span>
+<span>                                                   </span>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Julia-Kalyukh&date_format=j%20M%5B%20Y%5D&background=09131B&border=0F1A24&stroke=0F1A24&ring=FE662F&fire=FFE300&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FE662F&currStreakLabel=FFE300&dates=FFFFFF#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julia-Kalyukh&theme=vue&border=F2F0F0&date_format=j%20M%5B%20Y%5D&currStreakNum=000000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Julia-Kalyukh&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
-#
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=40&duration=2500&pause=800&color=DD0303F1&center=true&vCenter=true&width=250&height=70&lines=I+%E2%9D%A4%EF%B8%8Fcoding!" alt="I love coding!" /></a>
