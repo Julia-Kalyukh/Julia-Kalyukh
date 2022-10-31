@@ -21,8 +21,7 @@
 
 #
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-
+<h3 align="center">Languages and Tools</h3>
 <table align="center">
   <tbody>
     <tr>
@@ -82,9 +81,7 @@
   </tbody>
 </table>
 
-<br>
-
-<h3 align="center">📈 My statistics on GitHub</h3>
+<h3 align="center">My statistics on GitHub</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Kalyukh&count_private=true&line_height=24&show_icons=true&card_width=450&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Kalyukh&count_private=true&line_height=24&show_icons=true&card_width=450&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<span>    </span>
@@ -96,9 +93,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julia-Kalyukh&theme=vue&border=F2F0F0&date_format=j%20M%5B%20Y%5D&currStreakNum=000000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Julia-Kalyukh&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
-
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=40&duration=2500&pause=600&color=DA0000E7&center=true&vCenter=true&width=320&height=70&lines=I+love+coding!" alt="Typing SVG" />   </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&duration=2500&pause=700&color=D50000&center=true&vCenter=true&width=300&lines=I+love+coding!" alt="Typing SVG" /></a>
   <br>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e4722af63a96228193c670975456e9a2e6859f93998&rid=giphy.gif&ct=g" width="280" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e4722af63a96228193c670975456e9a2e6859f93998&rid=giphy.gif&ct=g" width="210" />
 </div>
