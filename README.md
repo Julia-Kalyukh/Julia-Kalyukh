@@ -77,6 +77,7 @@
         <a href="https://www.notion.so" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/-Notion-black?&logo=Notion"></a>
         <a href="https://developer.mozilla.org/ru/docs/Web/SVG" target="_blank"><img alt="SVG" src="https://img.shields.io/badge/-SVG-FFB338?&logo=svg&logoColor=black"></a>
         <a href="https://www.jetbrains.com/ru-ru/webstorm/" target="_blank"><img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-white?&logo=WebStorm&logoColor=black"></a>
+        <br>
         <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0065B8?&logo=Visual Studio Code"></a>
         <a href="https://www.apple.com" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/-macOS-323232?&logo=Apple"></a>
         <a href="https://support.microsoft.com/ru-ru/windows"><img alt="Windows" src="https://img.shields.io/badge/-Windows-05529C?&logo=Windows"></a>
