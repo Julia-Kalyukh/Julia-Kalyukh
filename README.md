@@ -73,9 +73,9 @@
       </td>
       <td>
         <a href="https://www.npmjs.com/" target="_blank"><img alt="npm" src="https://img.shields.io/badge/-npm-white?&logo=npm"></a>
-        <a href="https://stackoverflow.com" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-F48023?&logo=Stack Overflow&logoColor=white"></a>
-        <a href="https://www.notion.so" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/-Notion-black?&logo=Notion"></a>
+<!--         <a href="https://stackoverflow.com" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-F48023?&logo=Stack Overflow&logoColor=white"></a> -->
         <a href="https://www.redmine.org/" target="_blank"><img alt="Redmine" src="https://img.shields.io/badge/-Redmine-B60808?&logo=redmine"></a>
+        <a href="https://www.notion.so" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/-Notion-black?&logo=Notion"></a>
         <a href="https://developer.mozilla.org/ru/docs/Web/SVG" target="_blank"><img alt="SVG" src="https://img.shields.io/badge/-SVG-FFB338?&logo=svg&logoColor=black"></a>
         <br>
         <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0065B8?&logo=Visual Studio Code"></a>
