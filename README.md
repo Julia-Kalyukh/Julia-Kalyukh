@@ -42,6 +42,7 @@
       <td>
         <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?&logo=Bootstrap&logoColor=white"></a>
         <a href="https://ru.wordpress.org/"><img alt="WordPress" src="https://img.shields.io/badge/-WordPress-1A759C?&logo=WordPress&logoColor=white"></a>
+        <a href="https://tilda.cc/ru/"><img alt="Tilda" src="https://custom-icon-badges.demolab.com/badge/Tilda-white?logo=tilda"></a>
       </td>
       <td>
         <a href="https://swiperjs.com/" target="_blank"><img alt="Swiper" src="https://img.shields.io/badge/-Swiper-0080FF?&logo=Swiper&logoColor=white"></a>
