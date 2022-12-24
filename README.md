@@ -74,7 +74,6 @@
       </td>
       <td>
         <a href="https://www.npmjs.com/" target="_blank"><img alt="npm" src="https://img.shields.io/badge/-npm-white?&logo=npm"></a>
-<!--         <a href="https://stackoverflow.com" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-F48023?&logo=Stack Overflow&logoColor=white"></a> -->
         <a href="https://www.redmine.org/" target="_blank"><img alt="Redmine" src="https://img.shields.io/badge/-Redmine-B60808?&logo=redmine"></a>
         <a href="https://www.notion.so" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/-Notion-black?&logo=Notion"></a>
         <a href="https://developer.mozilla.org/ru/docs/Web/SVG" target="_blank"><img alt="SVG" src="https://img.shields.io/badge/-SVG-FFB338?&logo=svg&logoColor=black"></a>
@@ -90,15 +89,14 @@
 
 <h3 align="center">My statistics on GitHub</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Kalyukh&count_private=true&line_height=24&show_icons=true&card_width=450&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Kalyukh&count_private=true&line_height=24&show_icons=true&card_width=450&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<span>    </span>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Kalyukh&langs_count=8&layout=compact&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Kalyukh&langs_count=8&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Kalyukh&count_private=true&line_height=20&show_icons=true&card_width=450&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julia-Kalyukh&count_private=true&line_height=20&show_icons=true&card_width=450&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<span>    </span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Kalyukh&count_private=true&langs_count=6&layout=compact&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Kalyukh&count_private=true&langs_count=6&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <span>                                                </span>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Julia-Kalyukh&date_format=j%20M%5B%20Y%5D&background=09131B&border=0F1A24&stroke=0F1A24&ring=FE662F&fire=FFE300&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FE662F&currStreakLabel=FFE300&dates=FFFFFF#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julia-Kalyukh&theme=vue&border=F2F0F0&date_format=j%20M%5B%20Y%5D&currStreakNum=000000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-<!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Julia-Kalyukh&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&duration=2500&pause=800&color=C80000D7&center=true&vCenter=true&width=250&lines=I+love+coding!" alt="Typing SVG" /></a>
